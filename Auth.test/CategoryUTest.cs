@@ -31,7 +31,7 @@ public class CategoryUTest {
     }
 
     [Fact]
-    public void Test3_CorrectDescription() {
+    public void Test4_CorrectDescription() {
         var category = new CategoryModel {
             Description = "Smartphones"
         };
